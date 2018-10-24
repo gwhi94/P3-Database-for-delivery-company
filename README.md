@@ -18,7 +18,8 @@
  open express_food.sql
  
  ```
-[ExpressFood UML.pdf](https://github.com/gwhi94/foodDatabase/files/2510975/ExpressFood.UML.pdf)
+![database](https://user-images.githubusercontent.com/40371755/47439174-d18b2b80-d7a3-11e8-9b81-40f8ef0a879c.png)
+
 
     
     
